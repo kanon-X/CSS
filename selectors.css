@@ -1,0 +1,26 @@
+/*Universal selector*/
+*{
+    color: rgb(93, 112, 94);
+}
+/*Element Selector*/
+h1{
+    color:black
+}
+h2{
+    color: blueviolet;
+}
+button{
+    background-color: rgb(197, 42, 42);
+}
+/*id selector*/
+#heading1{
+    color: aquamarine;
+}
+body{
+    background-color: aqua;
+}
+/* same class for multiple elements
+class Selector*/
+.myclass{
+color: magenta;
+}
