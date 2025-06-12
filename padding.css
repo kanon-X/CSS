@@ -1,0 +1,11 @@
+div{
+    height: 60px;
+    width: 60px;
+    border-color: rgb(52, 133, 23);
+    background-color: pink;
+    padding-left: 25px;
+    padding-right: 10px;
+    padding-bottom: 25px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
