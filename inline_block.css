@@ -2,14 +2,20 @@ div1{
     background-color: blue;
     height: 100px;
     width: 100px;
+    margin: 25px;
+    padding: 25px;
 }
 div2{
     background-color: green;
      height: 100px;
     width: 100px;
+      margin: 25px;
+    padding: 25px;
 }
 div3{
     background-color: red;
      height: 100px;
     width: 100px;
+      margin: 25px;
+    padding: 25px;
 }
