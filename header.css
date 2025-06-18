@@ -1,0 +1,51 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+#navbar {
+    height: 60px;
+    background-color: #0f1111;
+}
+
+button {
+    color: blueviolet;
+    background-color: white;
+}
+
+a {
+    margin-right: 200px;
+    text-decoration: none;
+    font-size: large;
+}
+
+#logo {
+    color: orange;
+    font-size: x-large;
+}
+
+.box1, .box2, .box3 {
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+.box1 {
+    background-color: rgba(112, 28, 30, 0.5);
+}
+
+.box2 {
+    background-color: rgba(25, 139, 100, 0.75);
+}
+
+.box3 {
+    background-color: rgba(0, 0, 255, 1);
+}
+footer {
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
