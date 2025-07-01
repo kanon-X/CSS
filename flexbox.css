@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+
+div{
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#container{
+    width: 800px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#box1{
+    background-color: aqua;
+}
+#box2{
+    background-color: rgb(221, 63, 5);
+}
+#box3{
+    background-color: rgb(12, 216, 12);
+}
+#box4{
+    background-color: rgb(168, 15, 140);
+}
+#box5{
+    background-color: rgb(255, 255, 0);
+}
