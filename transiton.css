@@ -1,0 +1,14 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+    border: 2px solid black;
+}
+div:hover{
+    background-color: red;
+    color: white;
+}
+div:active{
+    background-color: green;
+    color: black;
+}
