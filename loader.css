@@ -1,0 +1,13 @@
+.loader{
+    height: 100px;
+    width: 100px;
+    border-radius:  50%; 
+    border: 20px solid #03CEA4; /* Light grey */
+    border-top: 20px solid #3498db; /* Blue */
+  animation: spinAnimate 2s ease-in-out 0s infinite normal;
+}
+
+@keyframes spinAnimate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
